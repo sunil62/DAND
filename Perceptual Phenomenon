@@ -10,6 +10,15 @@ Independent Variable: The type of test congruent or incongruent is the independe
 Null Hypothesis: The Incongruent test takes longer than the congruent test.
 Alternate Hypothesis: Both the tests take the same amount of time.
 
+I expect to perform a T test on this data, as we are only dealing with a sample and don't know mean or standard deviaion of the population.
+
+3. Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency and at least one measure of variability.
+   The Mean of the Congruent test is 14.05 and standard deviation is 3.414.
+   The Mean of the Incongruent test is 22.01 and the standard deviation is 4.60
+   
+4. Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences noting what you observe about the plot or plots.
+
+    
 
 Refer to this link for more details on how to conduct this project:
 http://wps.prenhall.com/ca_ph_wade_psychology_2/46/11890/3044062.cw/content/index.html
