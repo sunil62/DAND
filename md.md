@@ -5,3 +5,7 @@ _This will also be italic_
 __This will also be bold__
 
 *You **can** combine them*
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
